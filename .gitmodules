@@ -1,0 +1,3 @@
+[submodule "Assets/ReverseGeocoderAsset/ReverseGeocoderForUnity"]
+	path = Assets/ReverseGeocoderAsset/ReverseGeocoderForUnity
+	url = https://github.com/hk1ll3r/ReverseGeocoderForUnity
